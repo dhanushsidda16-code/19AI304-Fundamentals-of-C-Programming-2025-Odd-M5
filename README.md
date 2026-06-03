@@ -374,4 +374,4 @@ void displayArray(int *arr, int size) {
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
-](https://github.com/lal016/19AI304-Fundamentals-of-C-Programming-2025-Odd-M5.git)
+
